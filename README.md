@@ -3,10 +3,10 @@ I'm Salekur Rahaman, a Computer Science Student who loves to do fun with AI and 
 
 - 🔭 I’m currently working on a project called [Lagbe](https://github.com/LagbeDev)
 - 🌱 I’m currently learning Laravel.
-- 👯 I’m looking to collaborate on AI, Android, and Laravel. 
-- 🤔 I’m looking for help with Job to sustain in this world.
+- 👯 I’m looking to collaborate on AI, Android, and Laravel.
+- 🤔 I’m looking for a job to sustain myself in this world.
 - 📫 How to reach me: [Email](mailto:salekur19@gmail.com)
-- ⚡ Fun fact: I forget to eat and sometimes sleep during my ongoing project, but I don't forget to play games.
+- ⚡ Fun fact: I forget to eat and sometimes sleep during my ongoing project.
 
 <!--
 - 💬 Ask me about ...
