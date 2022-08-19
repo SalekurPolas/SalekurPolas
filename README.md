@@ -4,7 +4,7 @@ I'm Salekur Rahaman, a Computer Science Student who loves to do fun with AI and 
 - 🔭 I’m currently working on a project called [Lagbe](https://github.com/LagbeDev)
 - 🌱 I’m currently learning Laravel.
 - 👯 I’m looking to collaborate on AI, Android, and Laravel.
-- 📫 How to reach me: [Email](mailto:salekur19@gmail.com)
+- 📫 How to reach me: [Email](mailto:salekur9@gmail.com)
 
 <!--
 - 🤔 I’m looking for a job to sustain myself in this world.
