@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Salekur Rahaman, a Computer Science Student who loves to do fun with AI and Android. I also work on PHP and Laravel for some of my school and personal projects. I love to play games and travel with friends.
+I'm Salekur Rahaman, a Computer Science Student who loves to do fun with AI and Flutter. I also work on PHP and Laravel. I love to play games and travel with friends and family.
 
 - 🔭 I’m currently working on a laravel project called [Lagbe](https://github.com/LagbeDev)
 - 🌱 I’m currently learning Flutter.
