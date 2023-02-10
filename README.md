@@ -8,7 +8,7 @@ I'm Salekur Rahaman, a Computer Science Student who loves to play games.
 - 😄 **[eRiziq]()** : Buildin a Food catering application.
 - 😄 **[Lagbe](https://www.lagbe.net)** : Building flutter application for peoples need.
 
-### Fun facts
+#### Fun facts
 - 🌱 Seeding for Flutter.
 - 👯 Looking to collaborate on AI and Flutter..
 - 📫 How to reach me: [Email](mailto:salekur9@gmail.com)
