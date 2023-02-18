@@ -1,2 +1,17 @@
-- name: leetcode-box
-  uses: puiiyuen/leetcode-box@v0.1.2
+name: GitHub Actions
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+jobs:
+  update-leetcode-gist:
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v2
+     - run: npm install
+     - name: Update LeetCode Gist
+       uses: ./
+     - name: leetcode-box
+     - uses: puiiyuen/leetcode-box@v0.1.2
+       env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
