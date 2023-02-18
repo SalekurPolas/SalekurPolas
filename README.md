@@ -1,6 +1,6 @@
 # About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40ashtom-239a3b.svg)](https://github.com/SalekurPolas)
+[![GitHub](https://img.shields.io/badge/GitHub-%40SalekurPolas-%20%23171515)](https://github.com/SalekurPolas)
 [![Twitter](https://img.shields.io/badge/Twitter-%40ashtom-58a1f2.svg)](https://twitter.com/SalekurPolas)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/SalekurPolas)
 
