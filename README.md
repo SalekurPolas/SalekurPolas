@@ -10,7 +10,7 @@ Hi there! I'm [Salekur Rahaman](https://github.com/SalekurPolas), a Computer Sci
 
 ### Working on
 - 😄 **[MakeHub](https://www.makehub.com.bd/)** : Developing Web application and admin portal.
-- 😄 **[eRiziq]()** : Buildin a Food catering application.
+- 😄 **[eRiziq]()** : Building a Food catering flutter application.
 - 😄 **[Lagbe](https://www.lagbe.net)** : Building flutter application for peoples need.
 
 ### Fun facts
