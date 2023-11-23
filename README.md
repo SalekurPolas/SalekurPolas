@@ -9,11 +9,11 @@ Hi there! I'm [Salekur Rahaman](https://github.com/SalekurPolas), a Computer Sci
 <a href="https://github.com/SalekurPolas"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=SalekurPolas&show_icons=true" align="right" height="150" /></a>
 
 ### Working on
-- 😄 **[MakeHub](https://www.makehub.com.bd/)** : Developing Web application and admin portal.
-- 😄 **[eRiziq]()** : Building a Food catering flutter application.
+- 😄 **[MakeHub](https://www.makehub.com.bd)** : Developing Web application and admin portal.
+- 😄 **[Tuhur](https://www.tuhur.org)** : Building a mosque finder web & flutter application.
 - 😄 **[Lagbe](https://www.lagbe.net)** : Building flutter application for peoples need.
 
 ### Fun facts
-- 🌱 Seeding for Flutter.
-- 👯 Looking to collaborate on AI and Flutter..
+- 🌱 Seeding for AI.
+- 👯 Looking to collaborate on AI and Flutter.
 - 📫 Want to reach me: [Email](mailto:salekur9@gmail.com)
