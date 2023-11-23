@@ -11,7 +11,7 @@ Hi there! I'm [Salekur Rahaman](https://github.com/SalekurPolas), a Computer Sci
 ### Working on
 - 😄 **[MakeHub](https://www.makehub.com.bd)** : Developing Web application and admin portal.
 - 😄 **[Tuhur](https://www.tuhur.org)** : Building a mosque finder web & flutter application.
-- 😄 **[Lagbe](https://www.lagbe.net)** : Building flutter application for peoples need.
+- 😄 **[Lagbe](https://www.lagbe.dev)** : Building flutter application for peoples need.
 
 ### Fun facts
 - 🌱 Seeding for AI.
