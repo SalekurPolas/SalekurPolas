@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40SalekurPolas-%2300acee)](https://twitter.com/SalekurPolas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40SalekurPolas-%230072b1)](https://www.linkedin.com/in/SalekurPolas)
 
-Hi there! I'm [Salekur Rahaman](https://github.com/SalekurPolas), a tech guy who loves to play games.
+Hi there! I'm [Salekur Rahaman](https://github.com/SalekurPolas), a tech guy who loves to travel.
 
 <a href="https://github.com/SalekurPolas"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=SalekurPolas&show_icons=true" align="right" height="150" /></a>
 
